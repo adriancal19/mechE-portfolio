@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Adrian Calderon · Mechanical Engineering Portfolio</title>
+  <meta name="description" content="Engineering portfolio of Adrian Calderon, mechanical engineering student at Florida International University: CAD, FEA, manufacturing, electronics and software projects.">
+  <meta property="og:title" content="Adrian Calderon · Mechanical Engineering Portfolio">
+  <meta property="og:description" content="CAD, FEA, manufacturing, electronics and software projects.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
+  <link rel="stylesheet" href="css/main.css">
+  <script type="module" src="js/home.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header id="site-header" class="site-header"></header>
+
+  <main id="main" class="wrap">
+    <section class="page-intro">
+      <h1>Projects</h1>
+      <p id="intro"></p>
+    </section>
+
+    <div class="toolbar">
+      <div class="chips" id="filters" role="group" aria-label="Filter projects by skill"></div>
+      <div class="toolbar-right">
+        <span class="result-count" id="count" aria-live="polite"></span>
+        <label class="sort">Sort
+          <select id="sort">
+            <option value="featured">Featured</option>
+            <option value="newest">Newest</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <h2 class="visually-hidden">Project list</h2>
+    <ul class="grid" id="grid">
+      <li class="loading">Loading projects…</li>
+    </ul>
+  </main>
+
+  <footer id="site-footer" class="site-footer"></footer>
+</body>
+</html>

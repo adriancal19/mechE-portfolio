@@ -1,0 +1,13 @@
+# Original full-size photos: keep them out of the repo (resize them first)
+raw/
+**/raw/
+**/images/web/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large videos (GitHub rejects files over 100 MB; host on YouTube instead)
+*.MOV
+*.mov

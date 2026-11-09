@@ -1,0 +1,30 @@
+{
+  "name": "Adrian Calderon",
+  "fullName": "Adrian Eduardo Calderon",
+  "headline": "Mechanical Engineering Student",
+  "credential": "B.S. Mechanical Engineering · Florida International University · Expected May 2029",
+  "location": "Miami, FL",
+  "email": "ac192007@gmail.com",
+  "phone": "",
+  "linkedin": "https://www.linkedin.com/in/adrian-cald",
+  "github": "https://github.com/adriancal19",
+  "resume": "assets/Adrian_Calderon_Resume.pdf",
+  "siteUrl": "https://adriancal19.github.io/mechE-portfolio/",
+  "intro": "Mechanical engineering student at Florida International University with a true passion for engineering.",
+  "filters": [
+    "CAD",
+    "FEA",
+    "Manufacturing",
+    "Electronics",
+    "Software"
+  ],
+  "about": {
+    "photo": "assets/headshot.jpg",
+    "photoAlt": "Portrait of Adrian Calderon",
+    "bio": [
+      "I'm a mechanical engineering student at Florida International University. I like the whole loop of a project: design the part, check it with analysis, build it, and fix whatever the first version gets wrong.",
+      "This past summer I was a Product Development intern in Vehicle Engineering at Ford in Dearborn, where I worked on cold-weather validation testing, track testing and test data tools. At FIU I'm a vehicle dynamics engineer on Panther Motorsports, our Formula SAE team, and I run professional development for SHPE FIU.",
+      "I work mostly in SolidWorks, Siemens NX and Ansys Mechanical, and I build with 3D printing, Arduino and Python. I'm bilingual in English and Spanish."
+    ]
+  }
+}
