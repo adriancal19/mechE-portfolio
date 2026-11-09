@@ -29,6 +29,7 @@ Our FSAE car's stainless steel rotors had a factor of safety of about 8, so a te
 - images/cover.png | Ansys transient thermal simulation displaying endurance conditions. 
 - images/hover.jpg | Rear rotor on the car.
 - images/01.jpg | Front rotor on the car.
+- images/02.jpg | Me sanding down the mounts for the perfect floating rotor fit.
 
 ## Problem
 The car ran 5 mm thick, 205 mm stainless steel 316 rotors weighing 800 g each in front and 700 g in the rear, with Wilwood GP200 calipers. FEA in Ansys showed a **factor of safety of about 8** under maximum braking, so the rotors were far heavier than they needed to be. Rotating, unsprung mass costs acceleration and handling.
